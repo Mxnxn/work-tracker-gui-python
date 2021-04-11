@@ -1,0 +1,6 @@
+build/
+dist/
+electron-quick-start/
+node_modules/
+clock_23989.ico
+PAUTILITY.dll
